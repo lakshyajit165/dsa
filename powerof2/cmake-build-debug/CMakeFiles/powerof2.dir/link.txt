@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/powerof2.dir/main.cpp.o  -o powerof2 

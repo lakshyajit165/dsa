@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/twooddappearingnos.dir/main.cpp.o  -o twooddappearingnos 
