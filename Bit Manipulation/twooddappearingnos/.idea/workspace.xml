@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="twooddappearingnos" targetName="twooddappearingnos" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea7bd505-3c99-4e64-b25a-ec812d083868" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/.idea/missingnumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/missingnumber.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/missingnumber.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/missingnumber.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/missingnumber.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/missingnumber.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/missingnumber.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/missingnumber.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/missingnumber.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/missingnumber.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/missingnumber.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/missingnumber" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/cmake-build-debug/missingnumber.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../missingnumber/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/.idea/oneoddoccurrence.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/oneoddoccurrence.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/oneoddoccurrence.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/oneoddoccurrence.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/oneoddoccurrence.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/oneoddoccurrence.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/oneoddoccurrence.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/oneoddoccurrence.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/oneoddoccurrence.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/oneoddoccurrence.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/oneoddoccurrence.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/oneoddoccurrence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/cmake-build-debug/oneoddoccurrence.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oneoddoccurrence/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/.idea/powerof2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/powerof2.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/powerof2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/powerof2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/powerof2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/powerof2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/powerof2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/powerof2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/powerof2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/powerof2.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/powerof2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/powerof2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/cmake-build-debug/powerof2.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../powerof2/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/.idea/twooddappearingnos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/twooddappearingnos.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/twooddappearingnos.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/twooddappearingnos.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/twooddappearingnos.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/twooddappearingnos.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/twooddappearingnos.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/twooddappearingnos.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/twooddappearingnos.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/twooddappearingnos.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/CMakeFiles/twooddappearingnos.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/twooddappearingnos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/cmake-build-debug/twooddappearingnos.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../twooddappearingnos/main.cpp" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1UupB3H0R3WwvNhywbXG7Mgi430" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="twooddappearingnos" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="twooddappearingnos" TARGET_NAME="twooddappearingnos" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="twooddappearingnos" RUN_TARGET_NAME="twooddappearingnos">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea7bd505-3c99-4e64-b25a-ec812d083868" name="Default Changelist" comment="" />
+      <created>1576216195965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576216195965</updated>
+      <workItem from="1576216197285" duration="1636000" />
+      <workItem from="1576231855002" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

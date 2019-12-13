@@ -44,10 +44,10 @@ RM = /home/lakshyajit/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lakshyajit/workspace/C++/DSA5/twooddappearingnos
+CMAKE_SOURCE_DIR = "/home/lakshyajit/workspace/C++/DSA5/Bit Manipulation/twooddappearingnos"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lakshyajit/workspace/C++/DSA5/twooddappearingnos/cmake-build-debug
+CMAKE_BINARY_DIR = "/home/lakshyajit/workspace/C++/DSA5/Bit Manipulation/twooddappearingnos/cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/twooddappearingnos.dir/all:
 	$(MAKE) -f CMakeFiles/twooddappearingnos.dir/build.make CMakeFiles/twooddappearingnos.dir/depend
 	$(MAKE) -f CMakeFiles/twooddappearingnos.dir/build.make CMakeFiles/twooddappearingnos.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lakshyajit/workspace/C++/DSA5/twooddappearingnos/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target twooddappearingnos"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/lakshyajit/workspace/C++/DSA5/Bit Manipulation/twooddappearingnos/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target twooddappearingnos"
 .PHONY : CMakeFiles/twooddappearingnos.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/twooddappearingnos.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lakshyajit/workspace/C++/DSA5/twooddappearingnos/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/lakshyajit/workspace/C++/DSA5/Bit Manipulation/twooddappearingnos/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/twooddappearingnos.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lakshyajit/workspace/C++/DSA5/twooddappearingnos/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/lakshyajit/workspace/C++/DSA5/Bit Manipulation/twooddappearingnos/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/twooddappearingnos.dir/rule
 
 # Convenience name for target.
