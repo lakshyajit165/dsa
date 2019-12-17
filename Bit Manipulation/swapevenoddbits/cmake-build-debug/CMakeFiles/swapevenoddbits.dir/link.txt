@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/swapevenoddbits.dir/main.cpp.o  -o swapevenoddbits 
