@@ -14,58 +14,52 @@ Note: The result may be very large, so you need to return a string instead of an
 
 #include<bits/stdc++.h>
 using namespace std;
+class Solution {
+public:
+    static bool mycompare(string &a, string &b) {
+        
+       return a+b > b+a;
 
-bool mycompare(string a, string b){
-    
-    string ab = a.append(b);
-    string ba = b.append(a);
-    
-    return ab.compare(ba) > 0 ? 1 : 0;
-
-}
-
-
-string largestNumber(const vector<int> &A) {
-    
-    vector<string> arr(A.size());
-    
-    int count=0;
-    
-    for(int i=0; i<A.size(); i++){
-    
-        if(A[i]==0)
-            count++;
-        arr[i]=to_string(A[i]);
-    
+        
     }
-
-    // if all elements of the array are 0    
-    if(count==A.size())
-        return "0";
-    
-    sort(arr.begin(),arr.end(),mycompare);
-    
-    string ans=arr[0];
-    
-    for(int i=1; i<arr.size(); i++)
-        ans=ans+arr[i];
-    return ans;
-    
-}
-
-
+    string largestNumber(vector<int>& nums) {
+        
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
+        vector<string> temp;
+        string res = "";
+        int flag = 0;
+        
+        for(int x:nums){
+            if(x) flag = 1;
+            temp.push_back(to_string(x));
+        }
+        
+        if(flag == 0) return "0";
+        
+        sort(temp.begin(), temp.end(), mycompare);
+        
+        for(string s:temp) res += s;
+        
+        return res;
+        
+    }
+};
 int main() {
 
-    int n;
-    cin>>n;
+  vector<int> s;
+
+  int n;
+  cin>>n;
+
+  for(int i = 0; i<n; i++){
     int ele;
-    vector<int> A;
-    for(int i = 0; i<n; i++){
-        cin>>ele;
-        A.push_back(ele);
-    }
+    cin>>ele;
+    s.push_back(ele);
+  }
 
-    cout<<largestNumber(A)<<" ";
-
-    return 0;
+  Solution sn;
+  cout<<sn.largestNumber(s)<<endl;
+  return 0;
 }
